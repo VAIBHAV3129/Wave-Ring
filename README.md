@@ -1,3 +1,5 @@
+![Screen Shot 2026-03-31 at 22.55.25 PM](https://stasis.hackclub-assets.com/images/1774978019375-5h4d76.png)
+
 # Wave-Ring
 Growing 3D Jewellery with Pure Python
 
