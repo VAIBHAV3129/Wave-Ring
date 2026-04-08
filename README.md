@@ -20,7 +20,7 @@ Hardware
 A Computer: Any modern laptop or desktop.
 And optionally a 3D printer to test your results
 
-Before we code, we need to understand the geometry. Our ring is based on a Torus (a donut shape). To make it a Wave Ring, we tell the computer to change the thickness of the band as it travels around your fingers
+Before we code, we need to understand the geometry. Our ring is based on a Torus which is like a donut shape. To make it a Wave Ring, we tell the computer to change the thickness of the band as it travels around your fingers
 We use a Sine function to create the ripples: 
 - n (Waves): The number of peaks (e.g., 7 waves).
 - A (Amplitude): How the ripples are.
