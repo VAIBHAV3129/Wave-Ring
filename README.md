@@ -3,6 +3,13 @@
 # Wave-Ring
 Growing 3D Jewellery with Pure Python
 
+# 🌊 Wave Ring Generator
+
+## 📥 Download the Tool
+**[Click here to download the Windows Executable (.exe)](https://github.com/VAIBHAV3129/Wave-Ring/blob/main/main.exe)**
+
+*Note: Just download and run! No Python installation required.*
+
 What if you could grow a piece of jewellery from a single mathematical idea ?
 Traditional jewellery is either carved, cast, or forged. But in the age of computational design, we can use logic to define beauty. In this project, I’ll show you how to use a simple Sine Wave the same math that describes sound and light, to generate a high-end, parametric 3D ring.
 We aren't using any CAD software or complex 3D modeling tools. We are using 100% Python code and the power of a modern computer to turn raw numbers into a physical Computational Jewel.
